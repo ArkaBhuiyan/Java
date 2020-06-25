@@ -1,0 +1,5 @@
+Circle Red True 20
+Circle Blue False 100
+Rectangle Green True 20.2 80.5
+Rectangle White False 56.2 140.5
+Square Yellow True 30
